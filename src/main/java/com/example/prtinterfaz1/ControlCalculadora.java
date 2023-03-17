@@ -5,11 +5,10 @@ import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.control.*;
 
-import java.io.BufferedReader;
 import java.net.URL;
 import java.util.ResourceBundle;
 
-public class HelloController implements Initializable {
+public class ControlCalculadora implements Initializable {
     @FXML
     private Button btnsumar;
     @FXML
